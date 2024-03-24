@@ -1,0 +1,6 @@
+B-Number : B01023794
+Language : Python
+
+Usage:
+
+$python prgm2.py <input_file> <output_file>
